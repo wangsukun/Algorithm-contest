@@ -2,6 +2,6 @@
 
 int main()
 {
- printf("This is ACM ICPC program examples.\n");
+ printf("These are ACM ICPC program examples.\n");
  return 0;
 }
